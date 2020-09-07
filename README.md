@@ -1,9 +1,5 @@
 ### Hi there What i'm Working on!👋
 
-<!--
-**Amr-Eisa20/Amr-Eisa20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on ...Hawzen Tech
 - 🌱 I’m currently learning ...Reactjs
 - 👯 I’m looking to collaborate on ...Reactjs
