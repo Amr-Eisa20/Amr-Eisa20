@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...Reactjs
 - 🤔 I’m looking for help with ... More Information
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...Whatsapp Number (https://wa.link/3nt73q)
+- 📫 How to reach me: ...Whatsapp Number (https://wa.me/+0201096262204)
 - 😄 Pronouns: ... Hi / Him
 - ⚡ Fun fact: ...I Know All The Memes
 -->
